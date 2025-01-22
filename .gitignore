@@ -1,0 +1,4 @@
+#### **.gitignore**
+```plaintext
+*.pkl
+__pycache__/
